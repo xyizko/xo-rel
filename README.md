@@ -6,4 +6,5 @@
 # xo-rel
 Index of releases
 
-Wat ? | Description 
+Wat? | Type | Description 
+
