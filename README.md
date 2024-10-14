@@ -1,3 +1,6 @@
+
+<p align="center"><a href="https://x.com/xyizko" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/xyizko/xo-tagz/refs/heads/main/gfx/a.png"></a></p>
+
 <h1 align="center"><code>XO-REL</code></h1>
 <h2 align="center"><i>Releases</i></h2>
 
