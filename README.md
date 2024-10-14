@@ -6,9 +6,9 @@
 
 [![](./gfx/x.png)](https://youtu.be/rxziz-IcBKQ?feature=shared)
 
-# xo-rel
+# Repo Description
 Index of releases
 
-Wat? | Type | Description 
---- | --- | ---
-[`xo-rel-s-rd`](https://github.com/xyizko/xo-rel-s-rd) | Script | Removing all docker components
+| Ref   | Wat?                                                   | Type   | Description                    | Lang                                                                                   |
+| ----- | ------------------------------------------------------ | ------ | ------------------------------ | -------------------------------------------------------------------------------------- |
+| `R01` | [`xo-rel-s-rd`](https://github.com/xyizko/xo-rel-s-rd) | Script | Removing all docker components | [![My Skills](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev) |
