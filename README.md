@@ -7,4 +7,5 @@
 Index of releases
 
 Wat? | Type | Description 
-
+--- | --- | ---
+[`xo-rel-s-rd`](https://github.com/xyizko/xo-rel-s-rd) | Script | Removing all docker components
