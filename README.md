@@ -17,3 +17,5 @@ Index of releases
 | Ref   | Wat?                                                   | Type   | Description                    | Lang                                                                                   |
 | ----- | ------------------------------------------------------ | ------ | ------------------------------ | -------------------------------------------------------------------------------------- |
 | `R01` | [`xo-rel-s-rd`](https://github.com/xyizko/xo-rel-s-rd) | Script | Removing all docker components | [![My Skills](https://skillicons.dev/icons?i=bash,powershell)](https://skillicons.dev) |
+| `R02` | [`xo-gis`](https://github.com/xyizko/xo-gis) | App | Current github issues and pr scraper | [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) |
+
