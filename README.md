@@ -16,7 +16,7 @@ Index of releases
 
 | Ref   | Wat?                                                   | Type   | Description                    | Lang                                                                                   |
 | ----- | ------------------------------------------------------ | ------ | ------------------------------ | -------------------------------------------------------------------------------------- |
-| `R01` | [`xo-rel-s-rd`](https://github.com/xyizko/xo-rel-s-rd) | 🍫Script | Removing all docker components | ![My Skills](https://skillicons.dev/icons?i=bash,powershell)(https://skillicons.dev) |
+| `R01` | [`xo-rel-s-rd`](https://github.com/xyizko/xo-rel-s-rd) | 🍫Script | Removing all docker components | ![My Skills](https://skillicons.dev/icons?i=bash,powershell) |
 | `R02` | [`xo-gis`](https://github.com/xyizko/xo-gis) | 🍰App | Current github issues and pr scraper | ![My Skills](https://skillicons.dev/icons?i=python) |
 | `R03` | [`xo-wgs`](https://github.com/xyizko/xo-wgs) | 🍫Script | Ethereum Wallets Generator | ![My Skills](https://skillicons.dev/icons?i=python)|
 
