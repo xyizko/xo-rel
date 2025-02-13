@@ -20,4 +20,5 @@ Index of releases
 | `R02` | [`xo-gis`](https://github.com/xyizko/xo-gis) | 🍰App | Current github issues and pr scraper | ![My Skills](https://skillicons.dev/icons?i=python) |
 | `R03` | [`xo-wgs`](https://github.com/xyizko/xo-wgs) | 🍫Script | Ethereum Wallets Generator | ![My Skills](https://skillicons.dev/icons?i=python)|
 |`R05`| [`xo-bbr-1`](https://github.com/xyizko/xo-bbr-1) | 🍫Script | Recon Bug Bounty Automation Docker Script |![My Skills](https://skillicons.dev/icons?i=go,docker)
+|`R06`| [`xo-bbr-1`](https://github.com/xyizko/xo-ml-HFAgentsCourse-HFModelTest) | 🍰App | Test HuggingFace Models via HF Api in python |![My Skills](https://skillicons.dev/icons?i=python)
 
